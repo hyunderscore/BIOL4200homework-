@@ -1,0 +1,6 @@
+@misc{Penguins_of_Kyoto_dataset,
+author = {Heather Z. Brooks and Michelle Feng},
+title = {Penguins of Kyoto Multilayer Network},
+year = {2020},
+url = {https://bitbucket.org/mhfeng/penguins_of_kyoto/src}
+}
